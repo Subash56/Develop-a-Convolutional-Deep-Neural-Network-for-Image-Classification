@@ -5,10 +5,15 @@ To develop a convolutional deep neural network (CNN) for image classification an
 
 ##   PROBLEM STATEMENT AND DATASET
 Include the Problem Statement and Dataset.
+Image classification is a fundamental task in computer vision where an input image is assigned to one of several predefined classes. The objective of this experiment is to build and train a Convolutional Neural Network (CNN) using a labeled image dataset and evaluate its performance using accuracy, confusion matrix, and classification report.
 
 ## Neural Network Model
+Include the neural network model diagram.
 
-<img width="1039" height="754" alt="image" src="https://github.com/user-attachments/assets/60b76dac-5d2c-49c3-a18f-35285600a6ce" />
+
+<img width="1300" height="657" alt="image" src="https://github.com/user-attachments/assets/0e9e33bc-e53a-4b8a-bd29-38b7bff06d68">
+
+
 
 
 ## DESIGN STEPS
